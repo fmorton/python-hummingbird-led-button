@@ -20,7 +20,7 @@ project = 'Hummingbird LED Button'
 year = '2022'
 author = 'Frank Morton'
 copyright = '{0}, {1}'.format(year, author)
-version = release = '0.0.5'
+version = release = '0.0.1'
 
 pygments_style = 'trac'
 templates_path = ['.']

@@ -47,9 +47,9 @@ Overview
     :alt: Supported implementations
     :target: https://pypi.org/project/hummingbird-led-button
 
-.. |commits-since| image:: https://img.shields.io/github/commits-since/fmorton/hummingbird-led-button/v0.0.5.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/fmorton/hummingbird-led-button/v0.0.1.svg
     :alt: Commits since latest release
-    :target: https://github.com/fmorton/hummingbird-led-button/compare/v0.0.5...main
+    :target: https://github.com/fmorton/hummingbird-led-button/compare/v0.0.1...main
 
 
 
