@@ -25,8 +25,8 @@ version = release = '0.0.1'
 pygments_style = 'trac'
 templates_path = ['.']
 extlinks = {
-    'issue': ('https://github.com/fmorton/hummingbird-led-button/issues/%s', '#'),
-    'pr': ('https://github.com/fmorton/hummingbird-led-button/pull/%s', 'PR #'),
+    'issue': ('https://github.com/fmorton/hummingbird-led-button/issues/%s', 'issue #%s'),
+    'pr': ('https://github.com/fmorton/hummingbird-led-button/pull/%s', 'PR #%s'),
 }
 # on_rtd is whether we are on readthedocs.org
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
